@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Accordion-Component/static/css/main.fd3064ca.css",
+    "main.js": "/Accordion-Component/static/js/main.bb34a9cb.js",
+    "index.html": "/Accordion-Component/index.html",
+    "main.fd3064ca.css.map": "/Accordion-Component/static/css/main.fd3064ca.css.map",
+    "main.bb34a9cb.js.map": "/Accordion-Component/static/js/main.bb34a9cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd3064ca.css",
+    "static/js/main.bb34a9cb.js"
+  ]
+}
